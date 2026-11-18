@@ -1,14 +1,13 @@
-# Responsive Clothing Website
+# Shopy Clothing Website
 
-Build a Clothing Website using HTML, CSS & JavaScript.
+A responsive single-page clothing store.
 
- contents:
+## Features
 
-* Modern Design
-* Responsive Design for mobile devices
-* Navbar menu indicator
-* Fetch products from API
-* Used Scroll Reveal JS
-* Used Swiper JS
+- Hero slider (Swiper)
+- New arrivals, featured products and discount banner
+- Mobile navigation menu
 
-![img](shopy.png)
+## Run it
+
+No build step. Open `index.html` in a browser, or serve the folder with any static server, for example `python -m http.server`.
